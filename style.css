@@ -69,7 +69,7 @@ body {
 }
 
 #envelope {
-  width: 300px;
+  width: 400px;
   cursor: pointer;
   transition: transform 0.4s ease;
 }
@@ -504,5 +504,6 @@ html {
   color: #4a5f52;           /* warna teks */
   font-size: 16px;
 }
+
 
 
